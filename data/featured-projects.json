@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Fradium",
+    "repo": "fradiumofficial/fradium",
+    "url": "https://github.com/fradiumofficial/fradium",
+    "homepage": "https://fradium.io",
+    "role": "Team Lead · Full-Stack Developer",
+    "status": "Public Beta",
+    "focus": "Web3 address risk",
+    "summary": "Surfaces address risk before a user sends funds by combining AI output with community signals.",
+    "tags": ["Web3 Trust", "On-chain Intelligence", "Applied AI", "Internet Computer", "Motoko", "Rust"]
+  },
+  {
+    "name": "PayGate",
+    "repo": "wildanniam/paygate-stellar",
+    "url": "https://github.com/wildanniam/paygate-stellar",
+    "homepage": "https://trypaygate.com",
+    "role": "Founder · Builder",
+    "status": "Stellar Testnet Beta",
+    "focus": "Agentic API payments",
+    "summary": "Lets machine clients pay for individual API requests through HTTP 402 and Stellar testnet.",
+    "tags": ["Agentic Payments", "API Infrastructure", "Stellar", "Soroban", "TypeScript", "Rust"]
+  },
+  {
+    "name": "Nova AI Wallet",
+    "repo": "OfficialNovaAI/nova-wallet",
+    "url": "https://github.com/OfficialNovaAI/nova-wallet",
+    "homepage": "https://nova-wallet-puce.vercel.app",
+    "role": "Team Lead · AI Engineer",
+    "status": "Public Prototype · Degraded",
+    "focus": "AI wallet orchestration",
+    "summary": "Turns wallet intent into clear actions while the connected wallet keeps final signing.",
+    "tags": ["AI Agents", "Wallet Intelligence", "Human-in-the-loop", "Next.js", "TypeScript"]
+  },
+  {
+    "name": "SpecHeal",
+    "repo": "antech2-async/SpecHeal",
+    "url": "https://github.com/antech2-async/SpecHeal",
+    "homepage": null,
+    "role": "Team Lead · Full-Stack & Product Developer",
+    "status": "Hackathon Prototype · Offline",
+    "focus": "AI-assisted test recovery",
+    "summary": "Helps teams distinguish safe selector recovery from real product bugs before applying a controlled repair.",
+    "tags": ["AI-assisted Development", "Software Reliability", "Playwright", "Next.js", "TypeScript"]
+  },
+  {
+    "name": "Quorum",
+    "repo": "wildanniam/Quorum",
+    "url": "https://github.com/wildanniam/Quorum",
+    "homepage": "https://quorum-sandy-eight.vercel.app",
+    "role": "Team Lead · Full-Stack & Smart Contract Engineer",
+    "status": "Active Stellar Testnet Build",
+    "focus": "Collaborative event settlement",
+    "summary": "Connects event checkout, collaborator splits, wallet-bound passes, gated resources, and withdrawals on Stellar testnet.",
+    "tags": ["Smart Contracts", "Event Settlement", "Stellar", "Soroban", "Next.js", "Rust"]
+  }
+]
